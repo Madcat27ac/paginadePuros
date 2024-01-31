@@ -1,51 +1,50 @@
 [
     {
         "id": 1,
-        "name":" Puro 1",
+        "name": "Royal Ember Elegance",
         "price": 199.99,
         "image": "img/puro-1.png"
     },
     {
         "id": 2,
-        "name":" Puro 2",
-        "price": 250,
+        "name": "Vintage Velvet Essence",
+        "price": 429.99,
         "image": "img/puro-2.png"
     },
     {
         "id": 3,
-        "name":" Puro 3",
-        "price": 290,
+        "name": "Opulent Obsidian Reserve",
+        "price": 549.99,
         "image": "img/puro-3.png"
     },
     {
         "id": 4,
-        "name":" Puro 4",
-        "price": 200,
+        "name": "Havana Twilight Delight",
+        "price": 699.99,
         "image": "img/puro-4.png"
     },
     {
         "id": 5,
-        "name":" Puro 5",
-        "price": 300,
+        "name": "Caribbean Spice Symphony",
+        "price": 149.99,
         "image": "img/puro-5.png"
     },
     {
         "id": 6,
-        "name":" Puro 6",
-        "price": 200,
+        "name": "Golden Harvest Legacy",
+        "price": 500,
         "image": "img/puro-6.png"
     },
     {
         "id": 7,
-        "name":" Puro 7",
-        "price": 200,
+        "name": "Midnight Silk Majesty",
+        "price": 799.99,
         "image": "img/puro-7.png"
     },
     {
         "id": 8,
-        "name":" Puro 8",
-        "price": 200,
+        "name": "Regal Reserva Royale",
+        "price": 299.99,
         "image": "img/puro-8.png"
     }
-
 ]
